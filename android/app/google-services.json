@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300179571203",
+    "project_id": "buzz-32413",
+    "storage_bucket": "buzz-32413.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300179571203:android:53d1e8bfb9749941e3c436",
+        "android_client_info": {
+          "package_name": "com.example.buzz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtEgrLLKyWBBHo-g1J9vWEY3X7MpHlOeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
